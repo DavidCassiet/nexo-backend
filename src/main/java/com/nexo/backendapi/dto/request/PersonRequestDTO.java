@@ -1,7 +1,5 @@
 package com.nexo.backendapi.dto.request;
 
-import com.nexo.backendapi.dto.response.AddressResponseDTO;
-
 import java.util.Set;
 
 public class PersonRequestDTO {
